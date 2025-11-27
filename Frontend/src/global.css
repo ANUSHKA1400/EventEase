@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+
+  /* Soft pink → blue gradient */
+  background: linear-gradient(
+    135deg,
+    #d083a7 0%,
+    #37749f 100%
+  );
+  background-attachment: fixed;
+}
